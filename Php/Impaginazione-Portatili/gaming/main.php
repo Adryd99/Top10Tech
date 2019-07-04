@@ -313,4 +313,42 @@
             </div>
         </div>
     </div>
+
+    <div class="row mt-5">
+        <div class="col-12 ">
+            <div class="row">
+                <div class="col">
+                    <h1 class="mb-5" align="center">Posizione 2</h1>
+                </div>
+            </div>
+            <div class="row mt-5 justify-content-center">
+                <div class="col-8">
+                    <img src="./img/aorus-5.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+                </div>
+            </div>
+            <div class="row mt-5 justify-content-center">
+                <div class="col-8 ">
+                    <h3 class="mb-5">Gigabyte AORUS 5</h3>
+                    <p>
+                    Lo chassis dell'AORUS 5 è rivestito con una finitura nero opaco, progettato pensando alla funzionalità e confezionato in modo ottimale
+                    per raggiungere un peso di soli 2,15 kg e uno spessore di soli 23 mm. E' uno dei notebook più potenti della sua categoria grazie al
+                    processore Intel i7 9750H di nona generazione, abbinato ad un SSD Intel PCIe ad altissime prestazioni. 
+                    Gaming ad altissimi livelli grazie alla Nvidia GeForce GTX 1650 e al display FHD 144hz.
+                    </p>
+                    <p>
+                    Andiamo adesso a vedere le specifiche di questa piccola bestiaccia.
+                    </p>
+                    <h4>Specifiche Tecniche</h4>
+                    <p>
+                        <h6 class="mt-3">CPU</h6>Intel Core i7-9750H<br>
+                        <h6 class="mt-3">GPU</h6>Nvidia GTX 1650<br>
+                        <h6 class="mt-3">RAM</h6>32GB<br>
+                        <h6 class="mt-3">Storage</h6>1TB SSD<br>
+                        <h6 class="mt-3">Display</h6>15.6-inch 1080p display 144hz<br>
+                        <h6 class="mt-3">Weight</h6> 2.5 Kg
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
